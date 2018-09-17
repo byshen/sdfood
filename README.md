@@ -1,9 +1,7 @@
 # San Diego food (圣地亚哥美食)
 
 =================
-
    * [San Diego food (圣地亚哥美食)](#san-diego-food-圣地亚哥美食)
-   * [Table of Contents](#table-of-contents)
       * [中餐](#中餐)
          * [北方菜](#北方菜)
          * [川菜](#川菜)
@@ -36,10 +34,11 @@
 - Nozomi La Jolla
 
 ## 韩餐
-- GrandMa
+- GrandMa Tofu House
+- Convoy Tofu House
 
 ## TODO
-店名 价格 rating 推荐菜式 comments
+<!-- 店名 价格 rating 推荐菜式 comments
 
 价格标准
 $$$ - 20 +
@@ -50,4 +49,4 @@ $ - 10左右
 3 - 来SD一定要吃一次
 2 - 很好吃
 1 - 和我自己做的差不多
-0 - 神坑，千万不要去
+0 - 神坑，千万不要去 -->
