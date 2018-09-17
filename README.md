@@ -1,4 +1,4 @@
-# San Diego food collection (圣地亚哥美食攻略)
+# San Diego food (圣地亚哥美食)
 
 ## 中餐
 
