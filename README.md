@@ -4,7 +4,7 @@
 价格标准
 - $$$ - 20 +
 - $$ - 15~25
-- $ - 10左右
+- $ - 15
 
 评分标准
 - 3 - 来SD一定要吃一次
@@ -20,30 +20,43 @@
 
 
 ### 川菜
-- 过桥缘 Spicy City
-- 滋味村 Szechuan Chef
-- 香锅大王 Sizzling Pot King
+| 店名        | 价格           | 评分  | 推荐菜 |
+| ------------- |:-------------:| :-----:| -----|
+| 过桥缘 Spicy City | $$ | 2 | |
+| 滋味村 Szechuan Chef | $$ | 2 | |
+| 香锅大王 Sizzling Pot King | $ | 2 | |
 
 ### 湘菜
-- 嗦粉大王 Rice Noodle King
-- 家湘味 Village Kitchen
+| 店名        | 价格           | 评分  | 推荐菜 |
+| ------------- |:-------------:| :-----:| -----|
+| 家湘味 Village Kitchen | $$ | 2 | |
+| 嗦粉大王 Rice Noodle King| $$ | 2 | |
 
 ### 粤菜
 早茶
-- 富临 China Max
-- 新乐宫 Jasmine
-- 福临门 Emerald Chinese Cuisine
+
+| 店名        | 价格           | 评分  | 推荐菜 |
+| ------------- |:-------------:| :-----:| -----|
+| 富临 China Max | $$ | 2 | |
+| 新乐宫 Jasmine | $$ | 2 | |
+| 福临门 Emerald Chinese Cuisine| $$ | 2 | |
 
 烧腊
-- 豪记 Nobel Chef
+| 店名        | 价格           | 评分  | 推荐菜 |
+| ------------- |:-------------:| :-----:| -----|
+| 豪记 Nobel Chef | $$ | 3 | |
 
 ## 日料
-- Kura sushi 
-- Nozomi La Jolla
+| 店名        | 价格           | 评分  | 推荐菜 |
+| ------------- |:-------------:| :-----:| -----|
+| Kura sushi  | $$ | 2 | |
+| Nozomi La Jolla  | $$$ | 2 | |
 
 ## 韩餐
-- GrandMa Tofu House
-- Convoy Tofu House
+| 店名        | 价格           | 评分  | 推荐菜 |
+| ------------- |:-------------:| :-----:| -----|
+| GrandMa Tofu House  | $$ | 2.5 | |
+| Convoy Tofu House  | $$ | 2 | |
 
 ## TODO
 <!-- 店名 价格 rating 推荐菜式 comments
