@@ -26,6 +26,7 @@
 | 过桥缘 Spicy City | $$ | 2 | |
 | 滋味村 Szechuan Chef | $$ | 2 | |
 | 香锅大王 Sizzling Pot King | $ | 2 | 日常吃, |
+| 神厨 Mr. Holy Gao | $ | 1 | 很坑 |
 
 ### 湘菜
 | 店名        | 价格           | 评分  | 备注 |
@@ -43,6 +44,9 @@
 | 福临门 Emerald Chinese Cuisine| $$ | 2 | 同上，皮蛋瘦肉粥不错 |
 | 豪记 Nobel Chef | $$ | 3 | 烧腊|
 | Chun's Seafood & Grill  | $$ | 3 | 环境很好，服务很好，菜品不错，上菜略慢，适合请客吃饭|
+| 金城酒家 Golden City | $$ | 1.5 | 店很大，点了几个菜都很一般|
+
+
 
 ### 奶茶甜品
 | 店名        | 价格           | 评分  | 备注 |
