@@ -81,6 +81,7 @@
 | Kura sushi  | $$ | 2 | |
 | Nozomi La Jolla  | $$$ | 2 | 沙拉，各种加州卷|
 | Menya Ultra | $$ | 2 | 拉面，还凑合吧|
+| Nishiki Ramen|  |  | |
 
 
 ## 韩餐
