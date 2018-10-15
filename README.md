@@ -66,10 +66,10 @@
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | 圈圈茶 OO Tea | $ | 2.5 | 个人最爱，half sweet no ice |
-| Kung Fu Tea  | $ | 2 | |
+| Kung Fu Tea  | $ |  | |
 | Share Tea  | $ | 2 | |
-| Infini Tea  | $ | 2 | |
-| Boba Bar and Desserts  | $ | 2 | Kura sushi 旁边，排队时候点一杯|
+| Infini Tea  | $ |  | |
+| Boba Bar and Desserts  | $ | 1.5 | Kura sushi 旁边，排队时候点一杯|
 | Tapioca Express | $ | 1 | 学校里有，tooooooo sweet |
 | 百糖 Sugar Sweets Dessert | $ | 2 | 榴莲班戟，杨枝甘露；香锅大王旁边，凭香锅小票可打折 |
 
