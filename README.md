@@ -37,7 +37,7 @@
 | 滋味村 Szechuan Chef | $$ | 2 | |
 | 香锅大王 Sizzling Pot King | $ | 2 | 日常吃, |
 | 神厨 Mr. Holy Gao | $ | 1 | 很坑 |
-
+| 蜀道火锅 Shudao Hot Pot | $$$ | 1.5 | 非常一般的火锅 |
 
 ### 湘菜
 
