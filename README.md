@@ -71,7 +71,7 @@
 | Infini Tea  | $ |  | |
 | Boba Bar and Desserts  | $ | 1.5 | Kura sushi 旁边，排队时候点一杯|
 | Tapioca Express | $ | 1 | 学校里有，tooooooo sweet |
-| ~~百糖 (倒闭了..) | $ | 2 | 榴莲班戟，杨枝甘露；香锅大王旁边，凭香锅小票可打折 ~~|
+| <S>百糖 (倒闭了..) <S>| $ | 2 | 榴莲班戟，杨枝甘露；香锅大王旁边，凭香锅小票可打折 |
 
 
 ## 日料
