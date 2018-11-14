@@ -83,6 +83,7 @@
 | Nozomi La Jolla  | $$$ | 2 | 沙拉，各种加州卷|
 | Menya Ultra | $$ | 2 | 拉面，还凑合吧|
 | Nishiki Ramen|  |  | |
+| Rakiraki Ramen|  |  | |
 | [Shabumi](https://goo.gl/maps/FDLsRuLNrt72) | $$ | 1.5 | 自助日式火锅，25刀/人，菜品比较少，肉要问服务员上，味道一般 |
 
 
