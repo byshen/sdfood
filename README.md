@@ -85,6 +85,8 @@
 | Nishiki Ramen|  |  | |
 | Rakiraki Ramen|  |  | |
 | [Shabumi](https://goo.gl/maps/FDLsRuLNrt72) | $$ | 1.5 | 自助日式火锅，25刀/人，菜品比较少，肉要问服务员上，味道一般 |
+| Ichiro's | $$ | 1 | 不太行
+| Wa Dining Okan | $$ | 2.5 | 推荐，店面不大但菜很精致
 
 
 ## 韩餐
