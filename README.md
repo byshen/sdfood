@@ -99,7 +99,7 @@
 ```C
 店名 价格 评分 推荐菜式 备注
 ```
-发在issue中即可
+发在issue中即可，有推荐的菜可以发在issue里，或者直接pull request就行
 
 ## Licence
 MIT
