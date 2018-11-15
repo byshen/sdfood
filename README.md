@@ -97,6 +97,12 @@
 | Convoy Tofu House  | $ | 2 | 豆腐煲还不错|
 | Tofu House  | $ | 1 | worst|
 
+## Potpourri
+
+| 店名        | 价格           | 评分  | 备注 |
+| ------------- |:-------------:| :-----:| -----|
+| Hunters Steakhouse  | $$$ | 3 | 需要[预约](http://www.huntersteakhouse.com/home.html)！prime rib 点 standard 中号就能吃的很饱，还有更大一号的 hunter cut，一般人吃不完，好吃不贵，量大价优，环境优雅。另：需要预约。 |
+
 
 ## Contribute
 ```C
