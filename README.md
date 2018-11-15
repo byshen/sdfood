@@ -80,7 +80,7 @@
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | Kura sushi  | $$ | 2 | |
-| Nozomi La Jolla  | $$$ | 2 | 沙拉，各种加州卷|
+| Nozomi La Jolla  | $$$ | 2 | 沙拉，各种加州卷 [discussions](https://github.com/byshen/sdfood/issues/7)|
 | Menya Ultra | $$ | 2 | 拉面，还凑合吧|
 | Nishiki Ramen|  |  | |
 | Rakiraki Ramen|  |  | |
