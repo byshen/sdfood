@@ -104,5 +104,11 @@
 ```
 发在issue中即可，有推荐的菜可以发在issue里，或者直接pull request就行
 
+## Acknowledgement
+感谢吃货们
+[@MrWhoami](https://github.com/MrWhoami)
+[@htfy96](https://github.com/htfy96)
+[@sjiang17](https://github.com/sjiang17)
+
 ## Licence
 MIT
