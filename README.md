@@ -54,7 +54,7 @@
 | 富临 China Max | $$ | 2 | 早茶 （中午会有早茶，晚上是粤菜）|
 | 新乐宫 Jasmine | $$ | 2 | 同上 |
 | 福临门 Emerald Chinese Cuisine| $$ | 2 | 同上，皮蛋瘦肉粥不错 |
-| 豪记 Nobel Chef | $$ | 3 | 烧腊|
+| 豪记 Nobel Chef | $$ | 2.5 | 烧腊|
 | 丰丰园 |  |  | |
 | Chun's Seafood & Grill  | $$ | 3 | 环境很好，服务很好，菜品不错，上菜略慢，适合请客吃饭|
 | 金城酒家 Golden City | $$ | 1.5 | 店很大，点了几个菜都很一般|
