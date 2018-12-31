@@ -34,7 +34,7 @@
 | 过桥缘 Spicy City | $$ | 2 | |
 | 蜀百味 Spicy House | $$ | 2.5 | 量大好吃 |
 | 滋味村 Szechuan Chef | $$ | 2 | |
-| 香锅大王 Sizzling Pot King | $ | 2 | 日常吃, |
+| 香锅大王 Sizzling Pot King | $ | 2 | 日常吃,最近分量变少了（推荐肥肠/牛筋/猪肚/牛肉 |
 | 神厨 Mr. Holy Gao | $ | 1 | 很坑 |
 | 蜀道火锅 Shudao Hot Pot | $$$ | 1.5 | 非常一般的火锅 |
 
@@ -71,7 +71,7 @@
 | Infini Tea  | $ |  | |
 | Boba Bar and Desserts  | $ | 1.5 | Kura sushi 旁边，排队时候点一杯|
 | Tapioca Express | $ | 1 | 学校里有，tooooooo sweet |
-| <S>百糖 (倒闭了..) <S>| $ | 2 | 榴莲班戟，杨枝甘露；香锅大王旁边，凭香锅小票可打折 |
+| 百糖 | $ | 2 | 芒果班戟，杨枝甘露；香锅大王旁边，凭香锅小票可打折 |
 
 
 ## 日料
