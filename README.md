@@ -66,17 +66,14 @@
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | 圈圈茶 OO Tea | $ | 2.5 | 个人最爱，half sweet no ice |
-| Kung Fu Tea  | $ |  | |
 | 贡茶 Gong Cha  | $ | 1.5| 奶茶很普通...据说奶盖好喝？但个人不喜欢奶盖|
 | Vivi Bubble Tea | $ | 2 | 挺好的 |
-
-| Share Tea  | $ |  | |
-
-| Infini Tea  | $ |  | |
 | Boba Bar and Desserts  | $ | 1.5 | Kura sushi 旁边，排队时候点一杯|
 | Tapioca Express | $ | 1 | 学校里有，tooooooo sweet |
 | 百糖 | $ | 2 | 芒果班戟，杨枝甘露，还有千层；香锅大王旁边，凭香锅小票可打折 |
-
+| Share Tea  | $ | 2 | |
+| Infini Tea  | $ |  | |
+| Kung Fu Tea  | $ |  | |
 
 ## 日料
 
