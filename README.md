@@ -24,7 +24,7 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| 面馍 Shan Xi Magic Kitchen | $ | 2 | 牛肉面，biangbiang面，大盘鸡（真的超大）|
+| 面馍 Shan Xi Magic Kitchen | $ | 2 | 牛肉面，biangbiang面，大盘鸡（真的超大）, 肉夹馍很难吃|
 
 
 ### 川菜
@@ -72,6 +72,7 @@
 | Boba Bar and Desserts  | $ | 1.5 | Kura sushi 旁边，排队时候点一杯|
 | Tapioca Express | $ | 1 | 学校里有，tooooooo sweet |
 | <S>百糖 (倒闭了..) <S>| $ | 2 | 榴莲班戟，杨枝甘露；香锅大王旁边，凭香锅小票可打折 |
+| Jamba Juice | $ | 2 | 学校和Ralphs旁边都有，推荐strawberry wild |
 
 
 ## 日料
