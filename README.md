@@ -88,6 +88,7 @@
 | Share Tea  | $ | 2 | |
 | Infini Tea  | $ |  | |
 | Kung Fu Tea  | $ |  | |
+| Camellia Rd Tea Bar | $ | 2 | Love matcha tea there |
 
 ## 日料
 
