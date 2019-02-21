@@ -24,7 +24,7 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| 面馍 Shan Xi Magic Kitchen | $ | 2 | 牛肉面，biangbiang面，大盘鸡（真的超大）|
+| 面馍 Shan Xi Magic Kitchen | $ | 2 | 牛肉面，biangbiang面，大盘鸡（真的超大）,肉夹馍很难吃|
 | 老地方 Green China Grill | $ | 2 | 鸡架不错 |
 | 宴遇 Yummy House| $$ | 1 | 烤鸭巨贵但一般，分量小；锅包肉面皮和肉是分开的？？；京酱肉丝肉太糯了；失望 |
 
@@ -90,7 +90,7 @@
 | Infini Tea  | $ |  | |
 | Kung Fu Tea  | $ |  | |
 | Camellia Rd Tea Bar | $ | 2 | Love matcha tea there |
-
+| Jamba Juice | $ | 2 | 学校和Ralphs旁边都有，推荐strawberry wild |
 ## 日料
 
 | 店名        | 价格           | 评分  | 备注 |
