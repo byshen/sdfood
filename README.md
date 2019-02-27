@@ -92,6 +92,7 @@
 | Kung Fu Tea  | $ |  | |
 | Camellia Rd Tea Bar | $ | 2 | Love matcha tea there |
 | Jamba Juice | $ | 2 | 学校和Ralphs旁边都有，推荐strawberry wild |
+
 ## 日料
 
 | 店名        | 价格           | 评分  | 备注 |
