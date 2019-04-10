@@ -114,6 +114,8 @@
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | Oscar’s Mexican Seafood| $ |  | la jolla cove附近的taco stand，据说很好次 |
+| Lola 55 | $$ |  |smoked fish, ribeye, vegan relleno (!), baja, really good taco place [news](http://sdcitybeat.com/food-drink/the-world-fare/fine-dining-mexican-in-the-east-village/) |
+
 
 ## 韩餐
 
@@ -122,6 +124,7 @@
 | GrandMa Tofu House  | $$ | 2.5 | 韩式牛肉汤 |
 | Convoy Tofu House  | $ | 2 | 豆腐煲还不错|
 | Tofu House  | $ | 1 | worst|
+| Friend's House Korean  | $$ | 2 | |
 
 ## 撸串
 
