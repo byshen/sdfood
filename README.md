@@ -1,9 +1,6 @@
-
-
 # San Diego food (圣地亚哥美食)
 
 ## 标准
-
 
 价格标准（include 15% tips)
 - $$$ - 25 +
