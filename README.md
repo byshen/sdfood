@@ -138,6 +138,7 @@
 | ------------- |:-------------:| :-----:| -----|
 | Hunters Steakhouse  | $$$ | 3 | 需要[预约](http://www.huntersteakhouse.com/home.html)！prime rib 点 standard 中号就能吃的很饱，还有更大一号的 hunter cut，一般人吃不完，好吃不贵，量大价优，环境优雅。另：需要预约。 |
 | Natsumi Sushi & Seafood Buffet  | $$| 2 | yelp上有优惠券，自助午餐12，晚餐21（略有不值），基本就是美式中餐+sushi，晚餐会丰盛一些，有牛扒和小龙虾|
+| Kaiserhof German American | $$$ | 2.5 | 大肘子, to eat list |
 
 
 ## Contribute
