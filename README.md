@@ -119,7 +119,8 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| GrandMa Tofu House  | $$ | 2.5 | 韩式牛肉汤 |
+| Chou Ju Jip  | $$ | 2.5 | 猪骨大酱汤，海鲜炒面 |
+| GrandMa Tofu House  | $$ | 2 | 韩式牛肉汤 |
 | Convoy Tofu House  | $ | 2 | 豆腐煲还不错|
 | Tofu House  | $ | 1 | worst|
 | Friend's House Korean  | $$ | 2 | |
