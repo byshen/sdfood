@@ -93,6 +93,7 @@
 | Kung Fu Tea  | $ |  | |
 | Camellia Rd Tea Bar | $ | 2 | Love matcha tea there |
 | Jamba Juice | $ | 2 | 学校和Ralphs旁边都有，推荐strawberry wild |
+| 舞妓 Premium Matcha Cafe Maiko | $ | 2.5 | 喜欢抹茶的一定不能错过！抹茶饮品，抹茶冰激凌，都很好吃 |
 
 ## 日料
 
