@@ -129,6 +129,7 @@
 | Tofu House  | $ | 1 | worst|
 | Friend's House Korean  | $$ | 2 | |
 | Buga Korean Barbecue  |  |  | |
+| Bonchon  |  |  | 炸鸡|
 
 ## 撸串
 
