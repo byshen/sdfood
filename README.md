@@ -128,6 +128,7 @@
 | Convoy Tofu House  | $ | 2 | 豆腐煲还不错|
 | Tofu House  | $ | 1 | worst|
 | Friend's House Korean  | $$ | 2 | |
+| Buga Korean Barbecue  |  |  | |
 
 ## 撸串
 
