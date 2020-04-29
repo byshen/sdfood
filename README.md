@@ -103,6 +103,8 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
+| Tsuruhashi Japanese BBQ | $$$ | 2.8 | 有人说比牛角好吃 =D|
+| Gyu-Kaku Japanese BBQ 牛角 | $$$ | 2.6 | 双人套餐吃的挺饱的 |
 | Kura sushi  | $$ | 2 | 请务必下app预约，不然排到地老天荒；新出的稠鱼烧好吃！|
 | Nozomi La Jolla  | $$$ | 2 | 沙拉，各种加州卷 [discussions](https://github.com/byshen/sdfood/issues/7)|
 | Menya Ultra | $$ | 2.2 | 拉面，很像日本的，很咸|
@@ -112,6 +114,10 @@
 | [Shabumi](https://goo.gl/maps/FDLsRuLNrt72) | $$ | 1.5 | 自助日式火锅，25刀/人，菜品比较少，肉要问服务员上，味道一般 |
 | Ichiro's | $$ | 1 | 不太行 |
 | Wa Dining Okan | $$ | 2.5 | 推荐，店面不大但菜很精致 |
+
+
+
+
 
 ## 墨西哥菜
 
@@ -125,9 +131,10 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| Chou Ju Jip  | $$ | 2.5 | 猪骨大酱汤，海鲜炒面 |
-| GrandMa Tofu House  | $$ | 2 | 韩式牛肉汤 |
-| Convoy Tofu House  | $ | 2 | 豆腐煲还不错|
+| Chou Ju Jip  | $$ | 2.5 | 猪骨大酱汤，海鲜炒面；应该挺正宗的，里面全是韩国人在吃 |
+| Woomiok  | $ | 2.2 | 牛骨汤，石锅拌饭，中规中矩；火锅还没试过|
+| GrandMa Tofu House  | $$ | 2.2 | 韩式牛肉汤 |
+| Convoy Tofu House  | $ | 2.1 | 豆腐煲还不错|
 | Tofu House  | $ | 1 | worst|
 | Friend's House Korean  | $$ | 2 | |
 | Buga Korean Barbecue  |  |  | |
