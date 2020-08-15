@@ -21,8 +21,8 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| 面馍 Shan Xi Magic Kitchen | $ | 2 | 牛肉面，biangbiang面，大盘鸡（真的超大），泡馍很一般|
-| 老地方 Green China Grill | $ | 2 | 鸡架不错 |
+| 面馍 Shan Xi Magic Kitchen | $ | 2.1 | 牛肉面，biangbiang面，大盘鸡（真的超大），泡馍很一般|
+| 老地方 Green China Grill | $ | 2 | 鸡架不错，兰州拉面汤很好喝 |
 | 宴遇 Yummy House| $$ | 1.7 | 烤鸭巨贵但一般，分量小；京酱肉丝肉太糯了；锅包肉还行；上菜还要很久 |
 | kroran uyghur cuisine| $$ | 2 | 大盘鸡/烤包子/馕炒肉；新疆菜，味道还行，分量小；可以试一下但估计不会再去 |
 | 祥和锅烙铺 harmony potsticker| $$ | 1.5 | 香锅还没我自己炒的好吃，分量也少；potsticker很一般；不会再去 |
@@ -34,9 +34,9 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| 过桥缘 Spicy City | $$ | 2 | |
-| 蜀百味 Spicy House | $$ | 2.5 | 量大好吃 |
-| 滋味村 Szechuan Chef | $$ | 2 | |
+| 过桥缘 Spicy City | $$ | 2.3 | |
+| 蜀百味 Spicy House | $$ | 2.4 | 量大好吃 |
+| 滋味村 Szechuan Chef | $$ | 2.2 | |
 | 香锅大王 Sizzling Pot King | $ | 2 | 日常吃,最近分量变少了（推荐肥肠/牛筋/猪肚/牛肉），牙签羊肉意外不错 |
 | 神厨 Mr. Holy Gao | $ | 1 | 很坑 |
 | 蜀道火锅 Shudao Hot Pot | $$$ | 1.5 | 非常一般的火锅 |
@@ -64,9 +64,9 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| 富临 China Max | $$ | 2 | 早茶 （中午会有早茶，晚上是粤菜）|
-| 新乐宫 Jasmine | $$ | 2 | 早茶还行，晚餐略贵而且很一般 |
-| 福临门 Emerald Chinese Cuisine| $$ | 2 | 同上，皮蛋瘦肉粥不错 |
+| 富临 China Max | $$ | 2.3 | 早茶 （中午会有早茶，晚上是粤菜）- 现在火灾倒闭了|
+| 新乐宫 Jasmine | $$ | 2.4 | 早茶还行，晚餐略贵而且很一般 |
+| 福临门 Emerald Chinese Cuisine| $$ | 2.3 | 同上，皮蛋瘦肉粥不错 |
 | 豪记 Nobel Chef | $$ | 2.5 | 烧腊很棒，味道相对比较好|
 | 丰丰园 |  |  | |
 | 金城酒家 Golden City | $$ | 1.5 | 店很大，点了几个菜都很一般|
@@ -88,6 +88,7 @@
 | ------------- |:-------------:| :-----:| -----|
 | Tea Station | $ | 2.7 | 茶味很浓！很好喝，午饭+1刀即可领一杯奶茶 |
 | 鲜芋仙 Meet Fresh | $ | 2.5 | SD的终于开门啦!! 在Hmart旁边！价格好像比Irvine的略贵一点！座位还有充电器 |
+| Happy Lemon | $ | 2.5 | 他家的salted cheese 超级香 |
 | 圈圈茶 OO Tea | $ | 2.5 | 个人最爱，珍珠给的很多 |
 | 舞妓 Premium Matcha Cafe Maiko | $ | 2.5 | 喜欢抹茶的一定不能错过！抹茶饮品，抹茶冰激凌，都很好吃;香锅大王旁边 |
 | 贡茶 Gong Cha  | $ | 1.5| 奶茶很普通...据说奶盖好喝？但个人不喜欢奶盖|
@@ -108,8 +109,8 @@
 | Tsuruhashi Japanese BBQ | $$$ | 2.8 | 有人说比牛角好吃 =D|
 | Gyu-Kaku Japanese BBQ 牛角 | $$$ | 2.6 | 双人套餐吃的挺饱的 |
 | Kura sushi  | $$ | 2 | 请务必下app预约，不然排到地老天荒；新出的稠鱼烧好吃！|
-| Nozomi La Jolla  | $$$ | 2 | 沙拉，各种加州卷 [discussions](https://github.com/byshen/sdfood/issues/7)|
-| Menya Ultra | $$ | 2.2 | 拉面，很像日本的，很咸|
+| Nozomi La Jolla  | $$ | 2 | 咖喱，沙拉，各种加州卷 [discussions](https://github.com/byshen/sdfood/issues/7)|
+| Menya Ultra | $$ | 2.2 | 拉面，很像日本的味道，很咸|
 | 味千拉面 Ajisen Ramen| $$ | 2 |还不错的拉面，味道应该改良过没有那么咸；炸鸡不错，锅贴很一般 |
 | Nishiki Ramen|  |  | |
 | Rakiraki Ramen|  |  | |
