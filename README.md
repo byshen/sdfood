@@ -86,16 +86,17 @@
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| Tea Station | $ | 2.7 | 茶味很浓！很好喝，午饭+1刀即可领一杯奶茶 |
-| 鲜芋仙 Meet Fresh | $ | 2.5 | SD的终于开门啦!! 在Hmart旁边！价格好像比Irvine的略贵一点！座位还有充电器 |
+| Tea Station | $ | 2.6 | 茶味很浓！很好喝，午饭+1刀即可领一杯奶茶 |
+| 鲜芋仙 Meet Fresh | $ | 2.4 | SD的终于开门啦!! 在Hmart旁边！价格好像比Irvine的略贵一点！座位还有充电器 |
 | Happy Lemon | $ | 2.5 | 他家的salted cheese 超级香 |
-| 圈圈茶 OO Tea | $ | 2.5 | 个人最爱，珍珠给的很多 |
+| 圈圈茶 OO Tea | $ | 2.4 | 个人最爱，珍珠给的很多 |
 | 舞妓 Premium Matcha Cafe Maiko | $ | 2.5 | 喜欢抹茶的一定不能错过！抹茶饮品，抹茶冰激凌，都很好吃;香锅大王旁边 |
 | 贡茶 Gong Cha  | $ | 1.5| 奶茶很普通...据说奶盖好喝？但个人不喜欢奶盖|
 | Vivi Bubble Tea | $ | 2 | 挺好的 |
 | Boba Bar and Desserts  | $ | 1.5 | Kura sushi 旁边，排队时候点一杯|
 | Tapioca Express | $ | 1 | 学校里有，tooooooo sweet |
 | 百糖 | $ | 2 | 芒果班戟，杨枝甘露，还有千层；香锅大王旁边，凭香锅小票可打折 |
+| 汉茶 Tan Cha | $ |  | to eat |
 | Share Tea  | $ | 2 | |
 | Infini Tea  | $ |  | |
 | Kung Fu Tea  | $ |  | |
