@@ -157,6 +157,16 @@
 | Kaiserhof German American | $$$ | 2.5 | 大肘子, to eat list |
 
 
+## 超市 
+
+| 店名        | 价格           | 评分  | 备注 |
+| ------------- |:-------------:| :-----:| -----|
+| 韩国超市 [H Mart](https://www.google.com/maps/place/H+Mart/@32.8207218,-117.159665,17z/) | $$ | 3 | 各种韩国小零食,凉菜 |
+| 韩国超市 [Zion](https://www.google.com/maps/place/Zion+Market/@32.8316962,-117.157622,17z/) | $ | 3 | 老大华旁边，蔬菜水果种类多，价格低 |
+| 日本超市 [Marukai Market](https://www.google.com/maps/place/Marukai+Market/@32.8213543,-117.1485039,17z/) | $| 3 | food court不错 |
+| 日本超市 [Mitsuwa Marketplace](https://www.google.com/maps/place/Mitsuwa+Marketplace+-+San+Diego/@32.8213543,-117.1485039,17z/) | $| 3 | 比较小，但是food court不错，里面还有两家餐厅 |
+| 日本超市 [Tokyo Central & Main](https://www.google.com/maps/place/Tokyo+Central+%26+Main/@32.8211055,-117.1506311,17z/) | $| 3 | 一些小东西 |
+
 ## Contribute
 ```C
 店名 价格 评分 推荐菜式 备注
