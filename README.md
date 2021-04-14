@@ -112,6 +112,7 @@
 | Kura sushi  | $$ | 2 | 请务必下app预约，不然排到地老天荒；新出的稠鱼烧好吃！|
 | Nozomi La Jolla  | $$ | 2 | 咖喱，沙拉，各种加州卷 [discussions](https://github.com/byshen/sdfood/issues/7)|
 | Menya Ultra | $$ | 2.2 | 拉面，很像日本的味道，很咸|
+| Tajima Ramen| $$ | 2.5 | 招牌拉面就很好，汤很浓 |
 | 味千拉面 Ajisen Ramen| $$ | 2 |还不错的拉面，味道应该改良过没有那么咸；炸鸡不错，锅贴很一般 |
 | Nishiki Ramen|  |  | |
 | Rakiraki Ramen|  |  | |
