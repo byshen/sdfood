@@ -3,9 +3,10 @@
 ## 标准
 
 Price (before pandemic) （include 15% tips)
-- $$$ - 25 +
-- $$ - 15~25
-- $ - 15
+- $$$$ - 30 ~ 40
+- $$$ - 20 ~ 30
+- $$ - 15~20
+- $ - <15
 
 Ratings
 - 3 - Awesome 很好吃
@@ -135,16 +136,17 @@ Ratings
 | Chou Ju Jip  | $$ | 2.5 | 猪骨大酱汤，海鲜炒面；应该挺正宗的，里面全是韩国人在吃 |
 | Woomiok  | $ | 2.2 | 牛骨汤，石锅拌饭，中规中矩；火锅还没试过|
 | GrandMa Tofu House  | $$ | 2.2 | 韩式牛肉汤 |
-| Convoy Tofu House  | $ | 2.1 | 豆腐煲还不错|
+| Convoy Tofu House  | $ | 1.9 | 豆腐煲还不错|
 | Tofu House  | $ | 1 | worst|
 | Friend's House Korean  | $$ | 2 | |
 | Buga Korean Barbecue  |  |  | |
 | Bonchon  |  |  | 炸鸡|
 
-## 撸串 | Skewed BBQ
+## 撸串/烧烤 | Skewed BBQ
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
+| Fire spot | $$$$ | 2.9 | 没吃过的快去吃！最好烧烤自助，感觉比Gyu-Kaku的东西要好 |
 | 客串 Guest Kabob |  |  |  |
 | 烧等  |  |  | |
 | 聚点 focus bbq | |  | |
