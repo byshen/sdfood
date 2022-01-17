@@ -3,18 +3,13 @@
 ## 标准
 
 Price (before pandemic) （include 15% tips)
-- $$$$ - 30 ~ 40
-- $$$ - 20 ~ 30
-- $$ - 15~20
-- $ - <15
 
-Ratings
+Ratings (个人的口味标准)
+
 - 3 - Awesome 很好吃
 - 2 - Good choice 好吃
 - 1 - Average cooking 和我自己做的差不多
 - 0 - Never come again 神坑，千万不要去
-
-> (本来是我个人的标准，contributor多了之后标准可能不太准确，如有异议可以发issue一起讨论qaq，但至少不会有营销号/水军)
 
 ## 中餐 | Chinese food
 
