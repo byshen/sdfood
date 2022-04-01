@@ -18,7 +18,7 @@ Ratings (个人的口味标准)
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | 面馍 Shan Xi Magic Kitchen | $ | 2.1 | 牛肉面，biangbiang面，大盘鸡（真的超大），泡馍很一般|
-| 老地方 Green China Grill | $ | 1.9 | 鸡架不错，兰州拉面汤很好喝；分量很小，性价比不高|
+| 老地方 Green China Grill | $ | 1.7 | 鸡架不错，兰州拉面汤很好喝；分量很小，性价比不高|
 | 宴遇 Yummy House| $$ | 1.7 | 烤鸭巨贵但一般，分量小；京酱肉丝肉太糯了；锅包肉还行；上菜还要很久 |
 | kroran uyghur cuisine| $$ | 2 | 大盘鸡/烤包子/馕炒肉；新疆菜，味道还行，分量小；可以试一下但估计不会再去 |
 | 祥和锅烙铺 harmony potsticker| $$ | 1.5 | 香锅还没我自己炒的好吃，分量也少；potsticker很一般；不会再去 |
@@ -52,7 +52,7 @@ Ratings (个人的口味标准)
 | Tasty Noodle House | $$ | 2.2 | 晚餐都要等位约15分钟，生煎，红烧肉，炸酱面不错，烧卖一般，汤面一般，应该只适合一两个人去吃|
 | Chun's Seafood & Grill  | $$ | 2.5 | 环境很好，服务很好，菜品不错，上菜略慢，适合请客吃饭|
 | 老正兴 double happiness  | $$$ | 1.8 | 上海菜，据某绍兴同学说菜式挺像的，但菜做的欠火候；小笼很难吃，烧划水都是霉豆腐味，珍宝蟹烧的感觉也很一般，推荐梅菜扣肉和糖醋小排|
-|Chef Chin| | | 据说适合聚餐(>10) | 
+|Chef Chin| | | 据说适合多人聚餐 | 
 
 
 ### 粤菜 | Cantonese Cusines 
@@ -76,15 +76,17 @@ Ratings (个人的口味标准)
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | Tasty Pot | $$ | 2 | 小火锅，一人一锅那种 |
-| 刘一手 |  |  |  |
-
+| 刘一手 | $$$  |  |  |
+| 山城辣妹子 Shancheng Lameizi  | $$$ |  |  |
+| MOMO paradise | $$ |  | 自助寿喜锅，肉的选择比较少 |
 
 ### 奶茶甜品 | Boba Tea
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
 | Tea Station | $ | 2.6 | 茶味很浓！很好喝，午饭+1刀即可领一杯奶茶 |
-| 鲜芋仙 Meet Fresh | $ | 2.4 | SD的终于开门啦!! 在Hmart旁边！价格好像比Irvine的略贵一点！座位还有充电器 |
+| 鲜芋仙 Meet Fresh | $ | 2.4 | SD的终于开门啦!! 在Hmart旁边！价格好像比Irvine的略贵一点！ |
+| Sul & Beans | $ | 2.5 | Somi Somi是一家，喜欢雪花冰，很饱！ |
 | Happy Lemon | $ | 2.5 | 他家的salted cheese 超级香 |
 | 圈圈茶 OO Tea | $ | 2.4 | 个人最爱，珍珠给的很多 |
 | 舞妓 Premium Matcha Cafe Maiko | $ | 2.5 | 喜欢抹茶的一定不能错过！抹茶饮品，抹茶冰激凌，都很好吃;香锅大王旁边 |
@@ -151,7 +153,8 @@ Ratings (个人的口味标准)
 
 | 店名        | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-----:| -----|
-| Hunters Steakhouse  | $$$ | 3 | 需要[预约](http://www.huntersteakhouse.com/home.html)！prime rib 点 standard 中号就能吃的很饱，还有更大一号的 hunter cut，一般人吃不完，好吃不贵，量大价优，环境优雅。另：需要预约。 |
+| Hunters 
+house  | $$$ | 3 | 需要[预约](http://www.huntersteakhouse.com/home.html)！prime rib 点 standard 中号就能吃的很饱，还有更大一号的 hunter cut，一般人吃不完，好吃不贵，量大价优，环境优雅。另：需要预约。 |
 | Natsumi Sushi & Seafood Buffet  | $$| 2 | yelp上有优惠券，自助午餐12，晚餐21（略有不值），基本就是美式中餐+sushi，晚餐会丰盛一些，有牛扒和小龙虾|
 | Kaiserhof German American | $$$ | 2.5 | 大肘子, to eat list |
 
