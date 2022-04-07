@@ -23,7 +23,7 @@ Ratings (个人的口味标准)
 | kroran uyghur cuisine| $$ | 2 | 大盘鸡/烤包子/馕炒肉；新疆菜，味道还行，分量小；可以试一下但估计不会再去 |
 | 祥和锅烙铺 harmony potsticker| $$ | 1.5 | 香锅还没我自己炒的好吃，分量也少；potsticker很一般；不会再去 |
 | 马家清真馆 Ma's house| $$ | 2 | 馕好吃；这家店又称马房233 |
-
+| 桂陕一家 Qin West Noodle | $$ | 2.1 | 米粉味道还不错，就在UTC，但是饭点人比较多，要等很久 |
 
 
 ### 川菜 | Sichuan Cusines 
@@ -101,6 +101,7 @@ Ratings (个人的口味标准)
 | Kung Fu Tea  | $ |  | |
 | Camellia Rd Tea Bar | $ | 2 | Love matcha tea there |
 | Jamba Juice | $ | 2 | 学校和Ralphs旁边都有，推荐strawberry wild |
+| Wushilan 五十岚 | $ | 2.1| 味道还可以，主要是近，在UTC |
 
 ## 日料 | Japanese food
 
@@ -118,6 +119,7 @@ Ratings (个人的口味标准)
 | [Shabumi](https://goo.gl/maps/FDLsRuLNrt72) | $$ | 1.5 | 自助日式火锅，25刀/人，菜品比较少，肉要问服务员上，味道一般 |
 | Ichiro's | $$ | 1 | 不太行 |
 | Wa Dining Okan | $$ | 2.5 | 推荐，店面不大但菜很精致 |
+| EE Nami | $$$ | 2.5| 他们家的猪排饭很不错（只供应午市），但是介个略贵 |
 
 ## 墨西哥菜| Mexico
 
@@ -148,6 +150,7 @@ Ratings (个人的口味标准)
 | 客串 Guest Kabob |  |  |  |
 | 烧等  |  |  | |
 | 聚点 focus bbq | |  | |
+| 松鹤 SongHak Korean bbq | $$$ | 2.3 | 蛮好吃的一家韩式烧烤，但是价格略贵 |
 
 ## Potpourri
 
